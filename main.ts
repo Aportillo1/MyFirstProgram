@@ -12,7 +12,7 @@ class MyFirstProgram {
         console.log('this method run first...')
     }
     runLast() {
-        console.log('this method runs last');
+        console.log('this method runs last!');
     }
 }
 
