@@ -9,13 +9,13 @@ class MyFirstProgram {
         console.log(argArray);
     }
     runFirst(callback: Function) {
-        console.log('this method run first...')
+        console.log('this method run first...');
     }
     runLast() {
         console.log('this method runs last!');
     }
-    runMidde() {
-        console.log('this code run in between the other two functions...!')
+   runMidde() {
+        console.log('this code run in between the other two functions...!');
     }
 }
 
